@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.21.0",
+    "better-scroll": "^2.0.5",
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
     "qs": "^6.9.4",
@@ -41,7 +42,6 @@
       "no-debugger": "off",
       "no-mixed-spaces-and-tabs": "off"
     }
- 
   },
   "browserslist": [
     "> 1%",
