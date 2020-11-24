@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # test
+=======
+# meilishuomall
+仿美丽说商城(vue.js)
+>>>>>>> 8d834ac7e122ca76bdd03f93649fc7a25261a01f
 
 ## Project setup
 ```
@@ -21,4 +26,8 @@ npm run lint
 ```
 
 ### Customize configuration
+<<<<<<< HEAD
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> 8d834ac7e122ca76bdd03f93649fc7a25261a01f

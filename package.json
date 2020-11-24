@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "test",
+=======
+  "name": "meilishuomall",
+>>>>>>> 8d834ac7e122ca76bdd03f93649fc7a25261a01f
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +12,18 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
+=======
+    "axios": "^0.21.0",
+    "better-scroll": "^2.0.5",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "qs": "^6.9.4",
+    "vue": "^2.6.11",
+    "vue-router": "^3.4.8"
+>>>>>>> 8d834ac7e122ca76bdd03f93649fc7a25261a01f
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -32,7 +46,15 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
+<<<<<<< HEAD
     "rules": {}
+=======
+    "rules": {
+      "no-console": "off",
+      "no-debugger": "off",
+      "no-mixed-spaces-and-tabs": "off"
+    }
+>>>>>>> 8d834ac7e122ca76bdd03f93649fc7a25261a01f
   },
   "browserslist": [
     "> 1%",
